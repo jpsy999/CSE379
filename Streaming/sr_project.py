@@ -210,7 +210,8 @@ if __name__ == "__main__":
 
     # Request headers
     headers = {
-        'Ocp-Apim-Subscription-Key': 'eecde9e2135743daa95c9e70227776a8',
+        # Need to add subscription key
+        'Ocp-Apim-Subscription-Key': '',
     }
     
     starttime = time.time()
