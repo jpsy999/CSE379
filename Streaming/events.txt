@@ -1,0 +1,10 @@
+Sunny
+Rain
+Snow
+Hail
+Thunder
+Spout
+Hurricane
+Sandstorm
+Night
+Day
