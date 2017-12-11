@@ -1,0 +1,253 @@
+[14:25:45] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[14:25:45] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_144]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_144]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_144]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_144]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_144]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_144]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_144]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_144]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_144]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_144]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_144]
+	at net.minecraft.server.dedicated.DedicatedServer$2.run(DedicatedServer.java:105) [nz$2.class:?]
+[14:25:53] [Server thread/INFO]: Loading properties
+[14:25:53] [Server thread/INFO]: Default game type: SURVIVAL
+[14:25:53] [Server thread/INFO]: Generating keypair
+[14:25:53] [Server thread/INFO]: Starting Minecraft server on 128.180.236.142:25565
+[14:25:53] [Server thread/INFO]: Using default channel type
+[14:25:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:25:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:25:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:25:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:25:56] [Server thread/INFO]: Preparing level "world"
+[14:26:00] [Server thread/INFO]: Loaded 488 advancements
+[14:26:00] [Server thread/INFO]: Preparing start region for level 0
+[14:26:03] [Server thread/INFO]: Preparing spawn area: 0%
+[14:26:04] [Server thread/INFO]: Preparing spawn area: 9%
+[14:26:05] [Server thread/INFO]: Preparing spawn area: 52%
+[14:26:06] [Server thread/INFO]: Done (9.936s)! For help, type "help" or "?"
+[14:28:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2550ms behind, skipping 51 tick(s)
+[14:35:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3591ms behind, skipping 71 tick(s)
+[14:36:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2071ms behind, skipping 41 tick(s)
+[14:37:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2104ms behind, skipping 42 tick(s)
+[14:38:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2371ms behind, skipping 47 tick(s)
+[14:38:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3247ms behind, skipping 64 tick(s)
+[14:38:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2515ms behind, skipping 50 tick(s)
+[14:39:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3025ms behind, skipping 60 tick(s)
+[14:39:22] [Server thread/INFO]: WorldGoBoomz[/128.180.118.65:51063] logged in with entity id 321 at (746.4218266074982, 74.74395341196204, 313.454606535817)
+[14:39:22] [Server thread/INFO]: WorldGoBoomz joined the game
+[14:39:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2136ms behind, skipping 42 tick(s)
+[14:39:36] [Server thread/INFO]: WorldGoBoomz lost connection: Disconnected
+[14:39:36] [Server thread/INFO]: WorldGoBoomz left the game
+[14:40:09] [Server thread/INFO]: WorldGoBoomz[/128.180.118.65:51076] logged in with entity id 557 at (746.4218266074982, 74.74395341196204, 313.454606535817)
+[14:40:09] [Server thread/INFO]: WorldGoBoomz joined the game
+[14:40:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5098ms behind, skipping 101 tick(s)
+[14:40:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5161ms behind, skipping 103 tick(s)
+[14:41:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2067ms behind, skipping 41 tick(s)
+[14:41:29] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2680ms behind, skipping 53 tick(s)
+[14:42:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2092ms behind, skipping 41 tick(s)
+[14:42:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3040ms behind, skipping 60 tick(s)
+[14:42:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2117ms behind, skipping 42 tick(s)
+[14:43:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2567ms behind, skipping 51 tick(s)
+[14:43:11] [Server thread/INFO]: WeatherBot[/128.180.118.65:51086] logged in with entity id 2663 at (747.5, 74.0, 308.5)
+[14:43:11] [Server thread/INFO]: WeatherBot joined the game
+[14:43:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5008ms behind, skipping 100 tick(s)
+[14:43:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2174ms behind, skipping 43 tick(s)
+[14:43:48] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[14:43:48] [Server thread/INFO]: WeatherBot left the game
+[14:43:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2073ms behind, skipping 41 tick(s)
+[14:44:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2371ms behind, skipping 47 tick(s)
+[14:44:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3053ms behind, skipping 61 tick(s)
+[14:44:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4653ms behind, skipping 93 tick(s)
+[14:45:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7467ms behind, skipping 149 tick(s)
+[14:45:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2338ms behind, skipping 46 tick(s)
+[14:45:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2292ms behind, skipping 45 tick(s)
+[14:46:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2133ms behind, skipping 42 tick(s)
+[14:46:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2023ms behind, skipping 40 tick(s)
+[14:46:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2156ms behind, skipping 43 tick(s)
+[14:47:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2270ms behind, skipping 45 tick(s)
+[14:47:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2754ms behind, skipping 55 tick(s)
+[14:47:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2724ms behind, skipping 54 tick(s)
+[14:48:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2345ms behind, skipping 46 tick(s)
+[14:48:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2271ms behind, skipping 45 tick(s)
+[14:48:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2777ms behind, skipping 55 tick(s)
+[14:49:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2293ms behind, skipping 45 tick(s)
+[14:49:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2295ms behind, skipping 45 tick(s)
+[14:50:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2279ms behind, skipping 45 tick(s)
+[14:50:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3207ms behind, skipping 64 tick(s)
+[14:50:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2645ms behind, skipping 52 tick(s)
+[14:51:17] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2314ms behind, skipping 46 tick(s)
+[14:51:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2496ms behind, skipping 49 tick(s)
+[14:51:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2416ms behind, skipping 48 tick(s)
+[14:52:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2904ms behind, skipping 58 tick(s)
+[14:52:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2226ms behind, skipping 44 tick(s)
+[14:52:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2416ms behind, skipping 48 tick(s)
+[14:53:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2887ms behind, skipping 57 tick(s)
+[14:53:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2654ms behind, skipping 53 tick(s)
+[14:54:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2993ms behind, skipping 59 tick(s)
+[14:54:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2942ms behind, skipping 58 tick(s)
+[14:55:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3249ms behind, skipping 64 tick(s)
+[14:55:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3961ms behind, skipping 79 tick(s)
+[14:55:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2635ms behind, skipping 52 tick(s)
+[14:56:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6108ms behind, skipping 122 tick(s)
+[14:56:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2795ms behind, skipping 55 tick(s)
+[14:57:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2608ms behind, skipping 52 tick(s)
+[14:57:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2619ms behind, skipping 52 tick(s)
+[14:57:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3470ms behind, skipping 69 tick(s)
+[14:58:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6543ms behind, skipping 130 tick(s)
+[14:58:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3035ms behind, skipping 60 tick(s)
+[14:58:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2860ms behind, skipping 57 tick(s)
+[14:59:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2195ms behind, skipping 43 tick(s)
+[14:59:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2258ms behind, skipping 45 tick(s)
+[14:59:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2133ms behind, skipping 42 tick(s)
+[15:00:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3399ms behind, skipping 67 tick(s)
+[15:00:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2205ms behind, skipping 44 tick(s)
+[15:01:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2691ms behind, skipping 53 tick(s)
+[15:01:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2729ms behind, skipping 54 tick(s)
+[15:01:47] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2171ms behind, skipping 43 tick(s)
+[15:02:13] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10895ms behind, skipping 217 tick(s)
+[15:02:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2469ms behind, skipping 49 tick(s)
+[15:02:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8258ms behind, skipping 165 tick(s)
+[15:03:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3207ms behind, skipping 64 tick(s)
+[15:07:02] [Server thread/INFO]: [WorldGoBoomz: Set the time to 1000]
+[15:11:41] [Server thread/INFO]: WeatherBot[/128.180.118.65:51228] logged in with entity id 21076 at (747.5, 74.0, 308.5)
+[15:11:41] [Server thread/INFO]: WeatherBot joined the game
+[15:11:55] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[15:11:55] [Server thread/INFO]: WeatherBot left the game
+[15:29:32] [Server thread/INFO]: WeatherBot[/128.180.118.65:51345] logged in with entity id 32127 at (747.5, 74.0, 308.5)
+[15:29:32] [Server thread/INFO]: WeatherBot joined the game
+[15:29:37] [Server thread/INFO]: <WeatherBot> hi
+[15:29:41] [Server thread/INFO]: [WeatherBot: Changing to clear weather]
+[15:29:45] [Server thread/INFO]: <WeatherBot> end
+[15:29:47] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[15:29:47] [Server thread/INFO]: WeatherBot left the game
+[15:30:20] [Server thread/INFO]: WeatherBot[/128.180.118.65:51348] logged in with entity id 32628 at (747.5, 74.0, 308.5)
+[15:30:20] [Server thread/INFO]: WeatherBot joined the game
+[15:30:31] [Server thread/INFO]: <WeatherBot> .
+[15:30:37] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[15:30:37] [Server thread/INFO]: WeatherBot left the game
+[15:37:05] [Server thread/INFO]: WeatherBot[/128.180.118.65:51363] logged in with entity id 37882 at (747.5, 74.0, 308.5)
+[15:37:05] [Server thread/INFO]: WeatherBot joined the game
+[15:37:17] [Server thread/INFO]: <WeatherBot> .
+[15:37:19] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[15:37:19] [Server thread/INFO]: WeatherBot left the game
+[15:37:29] [Server thread/INFO]: [WorldGoBoomz: Set the time to 1000]
+[15:43:51] [Server thread/INFO]: WeatherBot[/128.180.118.65:51377] logged in with entity id 42953 at (747.5, 74.0, 308.5)
+[15:43:51] [Server thread/INFO]: WeatherBot joined the game
+[15:43:57] [Server thread/INFO]: <WeatherBot> h
+[15:44:18] [Server thread/INFO]: <WeatherBot> k
+[15:44:38] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[15:44:38] [Server thread/INFO]: WeatherBot left the game
+[15:53:16] [Server thread/INFO]: [WorldGoBoomz: Set the time to 1000]
+[16:32:33] [Server thread/INFO]: WeatherBot[/128.180.118.65:51829] logged in with entity id 72988 at (747.5, 74.0, 308.5)
+[16:32:33] [Server thread/INFO]: WeatherBot joined the game
+[16:32:56] [Server thread/INFO]: <WorldGoBoomz> hi
+[16:33:03] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[16:33:03] [Server thread/INFO]: WeatherBot left the game
+[16:34:16] [Server thread/INFO]: WeatherBot[/128.180.118.65:51834] logged in with entity id 74119 at (747.5, 74.0, 308.5)
+[16:34:16] [Server thread/INFO]: WeatherBot joined the game
+[16:34:26] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[16:34:26] [Server thread/INFO]: WeatherBot left the game
+[16:49:37] [Server thread/INFO]: WeatherBot[/128.180.118.65:52019] logged in with entity id 83621 at (747.5, 74.0, 308.5)
+[16:49:37] [Server thread/INFO]: WeatherBot joined the game
+[16:50:45] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[16:50:45] [Server thread/INFO]: WeatherBot left the game
+[16:50:52] [Server thread/INFO]: WeatherBot[/128.180.118.65:52026] logged in with entity id 84113 at (747.5, 74.0, 308.5)
+[16:50:52] [Server thread/INFO]: WeatherBot joined the game
+[16:51:36] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[16:51:36] [Server thread/INFO]: WeatherBot left the game
+[16:52:15] [Server thread/INFO]: WeatherBot[/128.180.118.65:52030] logged in with entity id 84870 at (747.5, 74.0, 308.5)
+[16:52:15] [Server thread/INFO]: WeatherBot joined the game
+[16:52:20] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[16:52:20] [Server thread/INFO]: WeatherBot left the game
+[16:52:52] [Server thread/INFO]: WeatherBot[/128.180.118.65:52035] logged in with entity id 85269 at (747.5, 74.0, 308.5)
+[16:52:52] [Server thread/INFO]: WeatherBot joined the game
+[16:52:55] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[16:52:55] [Server thread/INFO]: WeatherBot left the game
+[17:34:25] [Server thread/INFO]: WeatherBot[/128.180.118.65:52139] logged in with entity id 112758 at (747.5, 74.0, 308.5)
+[17:34:25] [Server thread/INFO]: WeatherBot joined the game
+[17:34:38] [Server thread/INFO]: <WeatherBot> k
+[17:34:51] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[17:34:51] [Server thread/INFO]: WeatherBot left the game
+[17:44:01] [Server thread/INFO]: [WorldGoBoomz: Set the time to 1000]
+[17:44:08] [Server thread/INFO]: WeatherBot[/128.180.118.65:52159] logged in with entity id 120340 at (747.5, 74.0, 308.5)
+[17:44:08] [Server thread/INFO]: WeatherBot joined the game
+[17:44:38] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[17:44:38] [Server thread/INFO]: WeatherBot left the game
+[18:02:01] [Server thread/INFO]: [WorldGoBoomz: Set the time to 1000]
+[18:36:02] [Server thread/INFO]: WeatherBot[/128.180.118.65:52561] logged in with entity id 153680 at (747.5, 74.0, 308.5)
+[18:36:02] [Server thread/INFO]: WeatherBot joined the game
+[18:36:11] [Server thread/INFO]: <WorldGoBoomz> hi
+[18:36:19] [Server thread/INFO]: <WeatherBot> l
+[18:39:14] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[18:39:14] [Server thread/INFO]: WeatherBot left the game
+[18:39:35] [Server thread/INFO]: WeatherBot[/128.180.118.65:52572] logged in with entity id 155310 at (747.5, 74.0, 308.5)
+[18:39:35] [Server thread/INFO]: WeatherBot joined the game
+[18:40:08] [Server thread/INFO]: <WeatherBot> .
+[18:40:13] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[18:40:13] [Server thread/INFO]: WeatherBot left the game
+[19:10:58] [Server thread/INFO]: WeatherBot[/128.180.118.65:52945] logged in with entity id 176222 at (747.5, 74.0, 308.5)
+[19:10:58] [Server thread/INFO]: WeatherBot joined the game
+[19:11:03] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[19:11:03] [Server thread/INFO]: WeatherBot left the game
+[19:11:53] [Server thread/INFO]: WeatherBot[/128.180.118.65:52949] logged in with entity id 177002 at (747.5, 74.0, 308.5)
+[19:11:53] [Server thread/INFO]: WeatherBot joined the game
+[19:12:03] [Server thread/INFO]: <WeatherBot> k
+[19:12:38] [Server thread/INFO]: WeatherBot lost connection: Disconnected
+[19:12:38] [Server thread/INFO]: WeatherBot left the game
+[19:13:21] [Server thread/INFO]: WeatherBot[/128.180.118.65:52951] logged in with entity id 178016 at (747.5, 74.0, 308.5)
+[19:13:21] [Server thread/INFO]: WeatherBot joined the game
+[19:13:41] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[19:13:41] [Server thread/INFO]: WeatherBot left the game
+[19:16:12] [Server thread/INFO]: WeatherBot[/128.180.118.65:52960] logged in with entity id 179344 at (747.5, 74.0, 308.5)
+[19:16:12] [Server thread/INFO]: WeatherBot joined the game
+[19:16:30] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[19:16:30] [Server thread/INFO]: WeatherBot left the game
+[19:20:23] [Server thread/INFO]: WeatherBot[/128.180.118.65:52993] logged in with entity id 181362 at (747.5, 74.0, 308.5)
+[19:20:23] [Server thread/INFO]: WeatherBot joined the game
+[19:20:31] [Server thread/INFO]: <WeatherBot> hi
+[19:20:39] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[19:20:39] [Server thread/INFO]: WeatherBot left the game
+[19:40:09] [Server thread/INFO]: WeatherBot[/128.180.118.65:53081] logged in with entity id 193649 at (747.5, 74.0, 308.5)
+[19:40:09] [Server thread/INFO]: WeatherBot joined the game
+[19:40:29] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[19:40:29] [Server thread/INFO]: WeatherBot left the game
+[19:40:56] [Server thread/INFO]: WeatherBot[/128.180.118.65:53085] logged in with entity id 194101 at (747.5, 74.0, 308.5)
+[19:40:56] [Server thread/INFO]: WeatherBot joined the game
+[19:41:12] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[19:41:12] [Server thread/INFO]: WeatherBot left the game
+[19:41:57] [Server thread/INFO]: WeatherBot[/128.180.118.65:53093] logged in with entity id 194755 at (747.5, 74.0, 308.5)
+[19:41:57] [Server thread/INFO]: WeatherBot joined the game
+[19:42:16] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[19:42:16] [Server thread/INFO]: WeatherBot left the game
+[19:45:32] [Server thread/INFO]: WeatherBot[/128.180.118.65:53112] logged in with entity id 197614 at (747.5, 74.0, 308.5)
+[19:45:32] [Server thread/INFO]: WeatherBot joined the game
+[19:45:38] [Server thread/INFO]: <WeatherBot> true
+[19:46:25] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[19:46:25] [Server thread/INFO]: WeatherBot left the game
+[19:47:01] [Server thread/INFO]: WeatherBot[/128.180.118.65:53117] logged in with entity id 198887 at (747.5, 74.0, 308.5)
+[19:47:01] [Server thread/INFO]: WeatherBot joined the game
+[19:47:11] [Server thread/INFO]: <WeatherBot> .
+[19:47:45] [Server thread/INFO]: WeatherBot lost connection: Disconnected
+[19:47:45] [Server thread/INFO]: WeatherBot left the game
+[19:59:51] [Server thread/INFO]: <WorldGoBoomz> .
+[20:00:01] [Server thread/INFO]: [WorldGoBoomz: Set the time to 1000]
+[20:03:54] [Server thread/INFO]: WeatherBot[/128.180.118.65:53296] logged in with entity id 208663 at (747.5, 74.0, 308.5)
+[20:03:54] [Server thread/INFO]: WeatherBot joined the game
+[20:04:33] [Server thread/INFO]: [WeatherBot: Changing to clear weather]
+[20:04:40] [Server thread/INFO]: WeatherBot lost connection: Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host
+[20:04:40] [Server thread/INFO]: WeatherBot left the game
+[20:04:45] [Server thread/INFO]: WorldGoBoomz lost connection: Disconnected
+[20:04:45] [Server thread/INFO]: WorldGoBoomz left the game
+[20:05:41] [Server thread/INFO]: Stopping server
+[20:05:41] [Server thread/INFO]: Saving players
+[20:05:41] [Server thread/INFO]: Saving worlds
+[20:05:41] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[20:05:41] [Server thread/INFO]: Saving chunks for level 'world'/the_nether
+[20:05:41] [Server thread/INFO]: Saving chunks for level 'world'/the_end
+[20:05:42] [Server Shutdown Thread/INFO]: Stopping server
+[20:05:42] [Server Shutdown Thread/INFO]: Saving players
+[20:05:42] [Server Shutdown Thread/INFO]: Saving worlds

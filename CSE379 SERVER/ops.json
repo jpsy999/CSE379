@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "c39fa4c6-85a3-3582-8167-db3805dbe851",
+    "name": "echo",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "bb19ef2f-2f95-39a8-8bad-bda3ed373847",
+    "name": "Bot",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "78422d4e-2b31-3311-aa39-461d6643427e",
+    "name": "WeatherBot",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ee45a7aa-a4ac-3e60-ace6-479d0b85625a",
+    "name": "WorldGoBoomz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
